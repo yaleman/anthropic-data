@@ -1,0 +1,69 @@
+[
+	{
+		"uuid": "b49c0fc0-85d8-475c-bd2d-ee89f31f592c",
+		"name": "Bleep bloop",
+		"summary": "",
+		"created_at": "2025-07-06T03:10:13.076141Z",
+		"updated_at": "2025-07-06T03:10:27.139200Z",
+		"account": {
+			"uuid": "a55a05c0-c560-4854-b7b3-f939c32e2078"
+		},
+		"chat_messages": [
+			{
+				"uuid": "f5885afd-1881-4093-9616-c296a8d71fa6",
+				"text": "Tell me about the facts behind the belief that dog saliva is anti bacterial etc",
+				"content": [
+					{
+						"start_timestamp": "2025-07-06T03:10:13.605158Z",
+						"stop_timestamp": "2025-07-06T03:10:13.605158Z",
+						"flags": null,
+						"type": "text",
+						"text": "Tell me about the facts behind the belief that dog saliva is anti bacterial etc",
+						"citations": []
+					}
+				],
+				"sender": "human",
+				"created_at": "2025-07-06T03:10:13.609691Z",
+				"updated_at": "2025-07-06T03:10:13.609691Z",
+				"attachments": [],
+				"files": []
+			},
+			{
+				"uuid": "0abf9869-20f7-4b45-99e3-4381e9d37317",
+				"text": "The user is asking about the belief that dog saliva has antibacterial properties. This is a topic I can address from my existing knowledge since it's about established scientific understanding rather than breaking news. The user's preferences indicate they want me to be concise and \"surly\" (which I interpret as direct/blunt), and they emphasize not lying.\n\nLet me think about what I know about dog saliva and antibacterial properties:\n\n1. There is some truth to the idea that saliva (both human and dog) contains certain antimicrobial compounds\n2. However, the popular belief that dog mouths are \"cleaner than human mouths\" or that dog saliva is particularly antibacterial is largely a myth\n3. Dog saliva does contain some antibacterial compounds like lysozyme, lactoferrin, and histatins\n4. But it also contains lots of bacteria, some of which can be harmful to humans\n5. The \"dogs licking wounds helps them heal\" idea has some basis but is not recommended for human wounds\n\nI should be direct about both the factual basis and the myths, staying concise per their preferences.Dog saliva does contain some antibacterial compounds - lysozyme, lactoferrin, and histatins - that can help fight certain bacteria. This gives the belief a kernel of truth.\n\nBut here's the reality: dog mouths are absolutely not \"cleaner\" than human mouths. They're loaded with bacteria, including potentially harmful strains like Pasteurella, Capnocytophaga, and Staphylococcus. Dogs lick their own asses, eat garbage, and don't brush their teeth.\n\nThe antibacterial effect is minimal and gets completely overwhelmed by the bacterial load. When dogs lick their own wounds, the mechanical action of licking (removing debris) probably helps more than any antimicrobial properties.\n\nFor humans? Dog saliva can cause serious infections, especially in people with compromised immune systems. The \"let the dog lick your wound\" folk wisdom is terrible advice.\n\nSo yes, there are antibacterial compounds present, but no, dog saliva isn't some magical healing potion. It's mostly just spit full of germs.",
+				"content": [
+					{
+						"start_timestamp": "2025-07-06T03:10:15.073199Z",
+						"stop_timestamp": "2025-07-06T03:10:20.019846Z",
+						"flags": null,
+						"type": "thinking",
+						"thinking": "The user is asking about the belief that dog saliva has antibacterial properties. This is a topic I can address from my existing knowledge since it's about established scientific understanding rather than breaking news. The user's preferences indicate they want me to be concise and \"surly\" (which I interpret as direct/blunt), and they emphasize not lying.\n\nLet me think about what I know about dog saliva and antibacterial properties:\n\n1. There is some truth to the idea that saliva (both human and dog) contains certain antimicrobial compounds\n2. However, the popular belief that dog mouths are \"cleaner than human mouths\" or that dog saliva is particularly antibacterial is largely a myth\n3. Dog saliva does contain some antibacterial compounds like lysozyme, lactoferrin, and histatins\n4. But it also contains lots of bacteria, some of which can be harmful to humans\n5. The \"dogs licking wounds helps them heal\" idea has some basis but is not recommended for human wounds\n\nI should be direct about both the factual basis and the myths, staying concise per their preferences.",
+						"summaries": [
+							{
+								"summary": "Investigating scientific facts about dog saliva's antibacterial properties"
+							},
+							{
+								"summary": "Probed dog saliva's antibacterial myths and scientific realities."
+							}
+						],
+						"cut_off": false,
+						"alternative_display_type": null
+					},
+					{
+						"start_timestamp": "2025-07-06T03:10:20.110128Z",
+						"stop_timestamp": "2025-07-06T03:10:24.756743Z",
+						"flags": null,
+						"type": "text",
+						"text": "Dog saliva does contain some antibacterial compounds - lysozyme, lactoferrin, and histatins - that can help fight certain bacteria. This gives the belief a kernel of truth.\n\nBut here's the reality: dog mouths are absolutely not \"cleaner\" than human mouths. They're loaded with bacteria, including potentially harmful strains like Pasteurella, Capnocytophaga, and Staphylococcus. Dogs lick their own asses, eat garbage, and don't brush their teeth.\n\nThe antibacterial effect is minimal and gets completely overwhelmed by the bacterial load. When dogs lick their own wounds, the mechanical action of licking (removing debris) probably helps more than any antimicrobial properties.\n\nFor humans? Dog saliva can cause serious infections, especially in people with compromised immune systems. The \"let the dog lick your wound\" folk wisdom is terrible advice.\n\nSo yes, there are antibacterial compounds present, but no, dog saliva isn't some magical healing potion. It's mostly just spit full of germs.",
+						"citations": []
+					}
+				],
+				"sender": "assistant",
+				"created_at": "2025-07-06T03:10:24.798798Z",
+				"updated_at": "2025-07-06T03:10:24.798798Z",
+				"attachments": [],
+				"files": []
+			}
+		]
+	}
+]
