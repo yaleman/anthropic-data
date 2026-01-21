@@ -148,7 +148,8 @@ class Conversation(BaseModel):
 
 
 class Conversations(RootModel[list[Conversation]], Loader):
-    root: list[Conversation]
+    # root: list[Conversation]
+    pass
 
 
 if __name__ == "__main__":

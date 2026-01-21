@@ -33,7 +33,7 @@ class Project(BaseModel):
 
 
 class Projects(RootModel[list[Project]], Loader):
-    root: list[Project]
+    pass
 
 
 if __name__ == "__main__":

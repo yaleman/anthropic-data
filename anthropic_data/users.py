@@ -5,7 +5,7 @@ from .user import User
 
 
 class Users(RootModel[list[User]], Loader):
-    root: list[User]
+    pass
 
 
 if __name__ == "__main__":

@@ -28,7 +28,7 @@ class Memory(BaseModel):
 
 
 class Memories(RootModel[list[Memory]], Loader):
-    root: list[Memory]
+    pass
 
 
 if __name__ == "__main__":
